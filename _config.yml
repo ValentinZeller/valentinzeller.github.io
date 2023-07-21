@@ -27,6 +27,13 @@ url: "https://valentinzeller.github.io/" # the base hostname & protocol for your
 twitter_username: valentin_zeller
 github_username:  valentinzeller
 
+github:
+  repository_url: https://github.com/ValentinZeller/valentinzeller.github.io/
+  repository_name: valentinzeller.github.io
+  is_project_page: true
+  owner_url: https://github.com/ValentinZeller
+  owner_name: ValentinZeller
+
 # Build settings
 #theme: jekyll-theme-cayman
 remote_theme: pages-themes/cayman@v0.2.0
