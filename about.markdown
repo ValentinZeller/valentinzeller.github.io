@@ -1,18 +1,12 @@
 ---
-layout: page
-title: About
+layout: default
+title: A propos
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Je suis Valentin Zeller, développeur et passionné de jeux vidéo, fan d’informatique et de nouvelles technologies en général. Je suis aussi fan de tout ce qui concerne le Legendarium de Tolkien, les films et séries animés de Disney, les films du studio Ghibli, les BO de films et de jeux, la musique Electro ainsi que de mythologie.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Je joue depuis mes 6 ans aux jeux vidéo, très intéressé par les possibilités d’interactivités. Je me suis alors plongé dans cet univers très riche et me suis passionné au point de suivre de plus près la création de jeux, avec les différents métiers impliqués, les difficultés rencontrées, les technologiques utilisées au point où je me suis décidé de vouloir en faire ma profession.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Durant ces dernières années, de par mon parcours, j’ai appris : à programmer en C/C++/C#, à utliser Unity et Unreal Engine, à faire du développement web en HTML/CSS/Javascript/PHP/MySQL ainsi qu’à faire du Game Design.
 
-
-[jekyll-organization]: https://github.com/jekyll

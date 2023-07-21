@@ -21,16 +21,18 @@
 title: Valentin Zeller
 email: zeller.valentin@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Valentin Zeller
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://valentinzeller.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: valentin_zeller
 github_username:  valentinzeller
 
 # Build settings
-theme: minima
+#theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-  - jekyll-feed
+- jekyll-remote-theme
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
