@@ -36,7 +36,7 @@
         {{ content }}
 
         <footer class="site-footer">
-            {% if github.is_project_page %}
+            {% if github.is_project_page == true %}
             <span class="site-footer-owner"><a href="{{ github.repository_url }}">{{ github.repository_name
                     }}</a> is maintained by <a href="{{ github.owner_url }}">{{ github.owner_name
                     }}</a>.</span>
