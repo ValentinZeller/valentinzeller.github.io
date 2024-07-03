@@ -1,8 +1,6 @@
----
----
+--- --- @import "{{ site.theme }}";
 
-@import "{{ site.theme }}";
 
 header a h1 {
- color: white;
+    color: white;
 }
